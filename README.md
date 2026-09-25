@@ -1,3 +1,95 @@
+Each list item should have: 
+
+    A team member assigned to it.  
+
+    A due date assigned to it. (Don’t change this once it’s been assigned.) 
+
+    A start-work date assigned to. (Added when the item is moved from “To Do” to “Doing”.) 
+
+    A completed date assigned to. (Added when the item is moved from “Doing” to “Done.” 
+
+TODO:
+
+    The role of version control in software development. 
+
+    What is Git (including pros and cons). 
+
+    The Git Life Cycle. 
+
+    Git Fundamentals. 
+
+    Configuring Git 
+
+    Initializing a Repo 
+
+    Staging and Commit Files 
+
+    Status, Log, and Diff 
+
+    Using a Git Ignore File 
+
+    Undoing in Git with: 
+
+    Checkout 
+
+    Reset 
+
+    Revert 
+
+    Clean 
+
+    When to use the different strategies. 
+
+    Creating, Using, and Merging Branches 
+
+    Resolving Merge Conflict 
+
+    Stashing 
+
+    Tags 
+
+    Remote Repositories 
+
+    Adding / Configuring a GitHub Remote 
+
+    Pushing and Pulling 
+
+    The How and Why of Team Git Workflow 
+
+    Centralized Workflow 
+
+    Feature Branch Workflow 
+
+    Forking Workflow 
+
+    Other Interesting/Useful Git Topics  
+
+
+Doing: 
+
+
+
+
+Done:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a documentation website that:
