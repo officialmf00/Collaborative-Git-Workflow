@@ -10,51 +10,51 @@ Each list item should have:
 
 TODO:
 
- - The role of version control in software development. 
+ - The role of version control in software development. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
 
- - What is Git (including pros and cons). 
+ - What is Git (including pros and cons). **(Ryan)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
 
- - The Git Life Cycle. 
+ - The Git Life Cycle. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
 
- - Git Fundamentals. 
+ - Git Fundamentals. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
 
-   Configuring Git 
+    Configuring Git 
+ 
+    Initializing a Repo 
+ 
+    Staging and Commit Files 
+ 
+    Status, Log, and Diff 
+ 
+    Using a Git Ignore File 
 
-   Initializing a Repo 
+ - Undoing in Git with: **(Claire)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
 
-   Staging and Commit Files 
+     Checkout 
+ 
+     Reset 
+ 
+     Revert 
+ 
+     Clean 
+ 
+     When to use the different strategies. 
 
-   Status, Log, and Diff 
+  - Creating, Using, and Merging Branches **(Me)** [Complete by Oct 9, 2026] [Start Date: ???] [Completed Date: ???]
 
-   Using a Git Ignore File 
+  - Resolving Merge Conflict **(Me)** [Complete by Oct 9, 2026] [Start Date: ???] [Completed Date: ???]
 
- - Undoing in Git with: 
+  - Stashing **(Claire)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
 
-   Checkout 
+  - Tags **(Claire)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
 
-    Reset 
-
-    Revert 
-
-    Clean 
-
-    When to use the different strategies. 
-
-   - Creating, Using, and Merging Branches 
-
-   - Resolving Merge Conflict 
-
-   - Stashing 
-
-   - Tags 
-
-   - Remote Repositories 
+  - Remote Repositories **(Me)** [Complete by Oct 9, 2026] [Start Date: ???] [Completed Date: ???]
 
     Adding / Configuring a GitHub Remote 
 
     Pushing and Pulling 
 
-   - The How and Why of Team Git Workflow 
+  - The How and Why of Team Git Workflow **(George)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
 
     Centralized Workflow 
 
@@ -62,7 +62,7 @@ TODO:
 
     Forking Workflow 
 
-    - Other Interesting/Useful Git Topics  
+  - Other Interesting/Useful Git Topics **(George)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
 
 
 Doing: 
