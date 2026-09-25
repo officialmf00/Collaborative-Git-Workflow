@@ -8,7 +8,7 @@ TODO:
 
  - The role of version control in software development. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
 
- - What is Git (including pros and cons). **(Ryan)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
+ - What is Git (including pros and cons). **(George)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
 
  - The Git Life Cycle. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
 
