@@ -5,7 +5,7 @@ theme: Collaborative-Git-Workflow
 url: https://officialmf00.github.io/Collaborative-Git-Workflow
 
 aux_links:
-  Template Repository: https://github.com/StungEye-RRC/Just-The-Docs-Template
+  Template Repository: https://github.com/officialmf00/Collaborative-Git-Workflow
 
 sass: # Added to silence a number of warning triggered during the build process.
   quiet_deps: true # https://github.com/just-the-docs/just-the-docs/issues/1541
