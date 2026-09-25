@@ -1,12 +1,8 @@
-Each list item should have: 
+https://rrcca.sharepoint.com/:w:/s/Dept-VideoGameDevelopment-21404/EaEmDiqnJNZKoJZrxchxvPYBl89WSLTdsbpw10ZONPsYaQ
 
-- A team member assigned to it.  
+# Branch Creation: Following the Feature Branch Workflow, each team member should create a new branch from the main branch for each topic they document (eg: Each topic to make a new branch for is a -)
 
-- A due date assigned to it. (Don’t change this once it’s been assigned.) 
-
-- A start-work date assigned to. (Added when the item is moved from “To Do” to “Doing”.) 
-
-- A completed date assigned to. (Added when the item is moved from “Doing” to “Done.” 
+# Refer back to steps 8-17 in the link above when needed.
 
 TODO:
 
