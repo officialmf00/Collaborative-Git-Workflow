@@ -1,0 +1,107 @@
+#### Introduction
+
+Git is a powerful tool for version control and collaborative coding.
+GitHub gives us tools that make git-based collaborative workflows easy to implement.
+
+#### Collaborative Coding with Git and GitHub
+
+-With Git and GitHub, multiple developers can work on the same project without
+stepping on each other's toes.
+
+
+Key concepts include:
+
+-Forking: Creating a personal copy of another user's repository.
+
+-Cloning: Downloading a repository to your local machine.
+
+-Committing: Saving changes to the local repository.
+
+-Pushing: Sending committed changes to a remote repository.
+
+-Pull Request: Proposing changes to a repository that can be reviewed and
+potentially merged.
+
+
+#### Overview of Git Workflows
+
+Git workflows are methods or procedures that dictate how developers interact with the
+Git system to achieve effective team collaboration.
+
+
+There are several popular workflows used by teams:
+
+-Centralized Workflow:
+
+All developers work directly on a single branch, often main or master .
+Simple and similar to Subversion-style workflows.
+Not as powerful or flexible as other workflows.
+Suitable for small teams and projects.
+Merging can be problematic.
+
+1. Initialization: One team member creates the repository with an online remote.
+2. Cloning: Each team member creates a local copy by "cloning" the remote.
+3. Working Locally: Developers work on the project, committing to their local repo.
+4. Resolving Conflicts: When a developer is ready to share their changes, they
+must pull outstanding changes from the remote, and resolve merge conflicts as
+required.
+5. Pushing to Remote: The developer can now push their changes to the central
+repo.
+6. Synchronizing Team: Others can now pull from the central repo to locally
+incorporate the latest changes.
+
+-Feature Branch Workflow:
+
+-All feature development or bug fixes are done in dedicated branches.
+
+-Isolates new development from the main branch.
+
+-Makes it easy to discard experimental changes.
+
+-Facilitates code review via pull requests.
+
+Works like the Centralized Workflow, except:
+
+-Branching: New features or fixes are developed locally in a short-lived branch.
+
+-Resolving Conflicts: Remote commits by other developers can be pulled into the
+local feature branch, with merge conflicts resolved as required.
+
+-Pushing to Remote: Completed and resolved branches are then pushed.
+
+-Requesting a Remote Merge: A pull request is next initiated on the git hosting
+service (example: GitHub).
+
+-Reviewing: One or more team members review the pull request before merging it
+into the main remote branch.
+
+-Forking Workflow:
+
+-Often used for open source projects, in this workflow each developer gets not only their own local repository, but also a server-side copy of the project.
+
+-Developers push to their own server-side repositories.
+
+-Changes are shared via pull requests from their personal public repository.
+
+-The project maintainer has the final say on what is merged into the official
+repository.
+
+Works like the Feature Branch workflow, except:
+
+-Forking: Each team member creates a fork of the project on the git hosting
+service.
+
+-Cloning: Team members clone their remote fork to a local repo.
+
+-Adding an Upstream: Team members configure a secondary remote called
+upstream that points to the official repo.
+
+-Resolving Conflicts: Remote commits from upstream can be pulled into the
+local feature branch, with merge conflicts resolved as required.
+
+-Pushing to Remote: Local feature branches are pushed to the forked remote.
+
+-Requesting a Remote Merge: Pull request are initiated to request merges from
+the remote fork to the official upstream repo.
+
+
