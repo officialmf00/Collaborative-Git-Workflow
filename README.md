@@ -8,18 +8,6 @@ TODO:
 
  - What is Git (including pros and cons). **(George)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
 
- - Git Fundamentals. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
-
-    Configuring Git 
- 
-    Initializing a Repo 
- 
-    Staging and Commit Files 
- 
-    Status, Log, and Diff 
- 
-    Using a Git Ignore File 
-
  - Undoing in Git with: **(Claire)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
 
      Checkout 
@@ -64,7 +52,19 @@ Done:
 
  - The role of version control in software development. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: Sept 26, 2026] [Completed Date: Sept 26, 2026]
 
- - The Git Life Cycle. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: Sept 26, 2026] [Completed Date: Sept 30, 2026]
+- The Git Life Cycle. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: Sept 26, 2026] [Completed Date: Sept 30, 2026]
+
+- Git Fundamentals. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: Sept 30, 2026] [Completed Date: Sept 30, 2026]
+
+    Configuring Git 
+ 
+    Initializing a Repo 
+ 
+    Staging and Commit Files 
+ 
+    Status, Log, and Diff 
+ 
+    Using a Git Ignore File 
 
 
 
