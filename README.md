@@ -59,12 +59,12 @@ TODO:
 
 Doing: 
 
- - The Git Life Cycle. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: Sept 26, 2026] [Completed Date: ???]
-
 
 Done:
 
  - The role of version control in software development. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: Sept 26, 2026] [Completed Date: Sept 26, 2026]
+
+ - The Git Life Cycle. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: Sept 26, 2026] [Completed Date: Sept 30, 2026]
 
 
 
