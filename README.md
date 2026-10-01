@@ -38,8 +38,6 @@ TODO:
 
   - Resolving Merge Conflict **(Me)** [Complete by Oct 9, 2026] [Start Date: ???] [Completed Date: ???]
 
-  - Stashing **(Claire)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
-
   - Tags **(Claire)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
 
   - Remote Repositories **(Me)** [Complete by Oct 9, 2026] [Start Date: ???] [Completed Date: ???]
@@ -67,6 +65,7 @@ Doing:
 Done:
 
  - The role of version control in software development. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: Sept 26, 2026] [Completed Date: Sept 26, 2026]
+ - Stashing **(Claire)** [Complete by Oct 2, 2026] [Start Date: Oct 1, 2026] [Completed Date: Oct 1, 2026]
 
 
 
