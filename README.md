@@ -49,7 +49,14 @@ TODO:
 
 
 Doing: 
- - Undoing in Git with: **(Claire)** [Complete by Oct 2, 2026] [Start Date: Oct 1, 2026] [Completed Date: ???]
+
+
+
+
+Done:
+
+ - The role of version control in software development. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: Sept 26, 2026] [Completed Date: Sept 26, 2026]
+ - Undoing in Git with: **(Claire)** [Complete by Oct 2, 2026] [Start Date: Oct 1, 2026] [Completed Date: Oct 1, 2026]
 
      Checkout 
  
@@ -60,12 +67,6 @@ Doing:
      Clean 
  
      When to use the different strategies. 
-
-
-
-Done:
-
- - The role of version control in software development. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: Sept 26, 2026] [Completed Date: Sept 26, 2026]
 
 
 
