@@ -40,8 +40,6 @@ TODO:
 
   - Stashing **(Claire)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
 
-  - Tags **(Claire)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
-
   - Remote Repositories **(Me)** [Complete by Oct 9, 2026] [Start Date: ???] [Completed Date: ???]
 
     Adding / Configuring a GitHub Remote 
@@ -60,7 +58,7 @@ TODO:
 
 
 Doing: 
-
+- Tags **(Claire)** [Complete by Oct 2, 2026] [Start Date: Oct 1, 2026] [Completed Date: ???]
 
 
 
