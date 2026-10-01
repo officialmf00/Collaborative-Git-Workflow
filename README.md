@@ -22,17 +22,6 @@ TODO:
  
     Using a Git Ignore File 
 
- - Undoing in Git with: **(Claire)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
-
-     Checkout 
- 
-     Reset 
- 
-     Revert 
- 
-     Clean 
- 
-     When to use the different strategies. 
 
   - Creating, Using, and Merging Branches **(Me)** [Complete by Oct 9, 2026] [Start Date: ???] [Completed Date: ???]
 
@@ -60,7 +49,17 @@ TODO:
 
 
 Doing: 
+ - Undoing in Git with: **(Claire)** [Complete by Oct 2, 2026] [Start Date: Oct 1, 2026] [Completed Date: ???]
 
+     Checkout 
+ 
+     Reset 
+ 
+     Revert 
+ 
+     Clean 
+ 
+     When to use the different strategies. 
 
 
 
