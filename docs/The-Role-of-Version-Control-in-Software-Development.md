@@ -6,7 +6,7 @@ nav_order: 3
 
 
 
-#What is Version Control?
+# What is Version Control?
 
 
 
@@ -28,7 +28,7 @@ Some documents have more advanced version control built-in:
 
 
 
-*Version control allows for more than just undoing things:\*
+**Version control allows for more than just undoing things:**
 
 
 
@@ -48,5 +48,5 @@ software development.
 
 
 
-*It's your development safety net!\*
+**It's your development safety net!**
 
