@@ -1,22 +1,23 @@
 ---
 title: Git Fundamentals
-nav_order: 5
+nav_order: 3
 ---
 
-## Table Of Contents
+<!-- prettier-ignore-start -->
+# Main Title for Module 
+{: .no_toc }
 
-**Configuring Git**
+A short introductory paragraph for the module to come before the table of contents.
 
-**Initializing a Repo**
+## Table of Contents
+{: .no_toc }
 
-**Staging and Commit Files**
+1. TOC
+{:toc}
 
-**Status, Log, and Diff**
+<!-- prettier-ignore-end -->
 
-**Using a Git Ignore File**
-
-
-# Configuring Git
+## Configuring Git
 
 
 
@@ -42,7 +43,7 @@ You only need to set these once and then you're good to go!
 
 
 
-# Initializing a Repository
+## Initializing a Repository
 
 
 
@@ -66,7 +67,7 @@ git branch -m main
 
 
 
-# Staging and Committing Files
+## Staging and Committing Files
 
 
 
@@ -156,7 +157,7 @@ See Conventional Commits for a lightweight commit message convention.
 
 
 
-# Git Status, Log and Diff
+## Git Status, Log and Diff
 
 
 
@@ -213,7 +214,7 @@ This shows you all of your modified files
 
 
 
-# The Git Ignore File
+## The Git Ignore File
 
 
 
