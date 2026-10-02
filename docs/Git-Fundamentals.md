@@ -5,7 +5,7 @@ nav_order: 3
 ---
 
 <!-- prettier-ignore-start -->
-# Main Title for Module 
+# Git Fundamentals
 {: .no_toc }
 
 A short introductory paragraph for the module to come before the table of contents.
