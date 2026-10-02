@@ -1,8 +1,4 @@
----
-layout: default
-title: The Role Of Version Control in Software Development
-nav_order: 3
----
+
 
 ## Table Of Contents
 
