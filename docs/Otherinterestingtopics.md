@@ -1,6 +1,7 @@
 ---
+layout: default
 title: Module Title
-nav_order: 5
+nav_order: 10
 ---
 
 <!-- prettier-ignore-start -->
