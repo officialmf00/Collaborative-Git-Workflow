@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Creating, Using, and Merging Branches
 nav_order: 5
 ---
