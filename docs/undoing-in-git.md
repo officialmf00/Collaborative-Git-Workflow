@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Undoing in Git
 nav_order: 4
 ---
