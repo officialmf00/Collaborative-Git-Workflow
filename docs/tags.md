@@ -1,3 +1,7 @@
+---
+title: Tags
+nav_order: 8
+---
 <!-- prettier-ignore-start -->
 # Tags
 {: .no_toc }
