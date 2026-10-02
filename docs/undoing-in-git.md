@@ -1,3 +1,7 @@
+---
+title: Undoing in Git
+nav_order: 4
+---
 <!-- prettier-ignore-start -->
 # Undoing In Git
 {: .no_toc }
