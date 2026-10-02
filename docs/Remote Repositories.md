@@ -1,6 +1,7 @@
 ---
+layout: default
 title: Remote Repositories
-nav_order: 5
+nav_order: 9
 ---
 
 <!-- prettier-ignore-start -->
