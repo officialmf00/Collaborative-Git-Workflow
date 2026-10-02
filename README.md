@@ -6,16 +6,7 @@ https://rrcca.sharepoint.com/:w:/s/Dept-VideoGameDevelopment-21404/EaEmDiqnJNZKo
 
 TODO:
 
-  - The How and Why of Team Git Workflow **(George)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
-
-    Centralized Workflow 
-
-    Feature Branch Workflow 
-
-    Forking Workflow 
-
 Doing: 
-
 
 Done:
 
@@ -51,7 +42,15 @@ Done:
 
    Adding / Configuring a GitHub Remote 
 
-   Pushing and Pulling 
+   Pushing and Pulling
+
+- The How and Why of Team Git Workflow **(George)** [Complete by Oct 2, 2026] [Start Date: October 2, 2026] [Completed Date: October 2, 2026]
+
+   Centralized Workflow 
+
+  Feature Branch Workflow 
+
+  Forking Workflow 
 
 - Undoing in Git with: **(Claire)** [Complete by Oct 2, 2026] [Start Date: Oct 1, 2026] [Completed Date: Oct 1, 2026]
 
