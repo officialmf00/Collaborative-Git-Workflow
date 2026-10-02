@@ -6,12 +6,6 @@ https://rrcca.sharepoint.com/:w:/s/Dept-VideoGameDevelopment-21404/EaEmDiqnJNZKo
 
 TODO:
 
-  - Remote Repositories **(Me)** [Complete by Oct 9, 2026] [Start Date: ???] [Completed Date: ???]
-
-    Adding / Configuring a GitHub Remote 
-
-    Pushing and Pulling 
-
   - The How and Why of Team Git Workflow **(George)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
 
     Centralized Workflow 
@@ -53,6 +47,12 @@ Done:
 - Resolving Merge Conflicts **(Me)** [Complete by Oct 9, 2026] [Start Date: Oct 2, 2026] [Completed Date: Oct 2, 2026]
 
 - Tags **(Claire)** [Complete by Oct 2, 2026] [Start Date: Oct 1, 2026] [Completed Date: Oct 1, 2026]
+
+- Remote Repositories **(Me)** [Complete by Oct 9, 2026] [Start Date: Oct 2, 2026] [Completed Date: Oct 2, 2026]
+
+   Adding / Configuring a GitHub Remote 
+
+   Pushing and Pulling 
 
 - Undoing in Git with: **(Claire)** [Complete by Oct 2, 2026] [Start Date: Oct 1, 2026] [Completed Date: Oct 1, 2026]
 
