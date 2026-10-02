@@ -1,3 +1,89 @@
+https://rrcca.sharepoint.com/:w:/s/Dept-VideoGameDevelopment-21404/EaEmDiqnJNZKoJZrxchxvPYBl89WSLTdsbpw10ZONPsYaQ
+
+# Branch Creation: Following the Feature Branch Workflow, each team member should create a new branch from the main branch for each topic they document (eg: Each topic to make a new branch for is a -)
+
+# Refer back to steps 8-17 in the link above when needed.
+
+TODO:
+
+ - What is Git (including pros and cons). **(George)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
+
+ - The Git Life Cycle. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
+
+ - Git Fundamentals. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
+
+    Configuring Git 
+ 
+    Initializing a Repo 
+ 
+    Staging and Commit Files 
+ 
+    Status, Log, and Diff 
+ 
+    Using a Git Ignore File 
+
+ - Undoing in Git with: **(Claire)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
+
+     Checkout 
+ 
+     Reset 
+ 
+     Revert 
+ 
+     Clean 
+ 
+     When to use the different strategies. 
+
+  - Creating, Using, and Merging Branches **(Me)** [Complete by Oct 9, 2026] [Start Date: ???] [Completed Date: ???]
+
+  - Resolving Merge Conflict **(Me)** [Complete by Oct 9, 2026] [Start Date: ???] [Completed Date: ???]
+
+  - Stashing **(Claire)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
+
+  - Tags **(Claire)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
+
+  - Remote Repositories **(Me)** [Complete by Oct 9, 2026] [Start Date: ???] [Completed Date: ???]
+
+    Adding / Configuring a GitHub Remote 
+
+    Pushing and Pulling 
+
+  - The How and Why of Team Git Workflow **(George)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
+
+    Centralized Workflow 
+
+    Feature Branch Workflow 
+
+    Forking Workflow 
+
+  - Other Interesting/Useful Git Topics **(George)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
+
+
+Doing: 
+
+
+
+
+Done:
+
+ - The role of version control in software development. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: Sept 26, 2026] [Completed Date: Sept 26, 2026]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a documentation website that:
