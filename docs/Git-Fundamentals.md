@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Git Fundamentals
 nav_order: 3
 ---
