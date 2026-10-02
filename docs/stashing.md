@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Stashing
 nav_order: 7
 ---
