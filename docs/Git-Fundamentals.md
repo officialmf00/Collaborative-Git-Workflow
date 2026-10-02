@@ -140,35 +140,16 @@ Quality commit messages contribution to:
 
 
 Bad Commit Messages:
-
-
-
-fixing stuff
-
-
-
-Final version.
-
-
-
-asdf
+* fixing stuff
+* Final version.
+* asdf
 
 
 
 Good Commit Messages:
-
-
-
-Enhance user experience by validating signup form fields.
-
-
-
-Improve code readability by refactoring PlayerRegistrationService.
-
-
-
-Prevent null reference crashes by adding pointer checks in the teleport code.
-
+* Enhance user experience by validating signup form fields.
+* Improve code readability by refactoring PlayerRegistrationService.
+* Prevent null reference crashes by adding pointer checks in the teleport code.
 
 
 See Conventional Commits for a lightweight commit message convention.
