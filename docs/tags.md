@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Tags
 nav_order: 8
 ---
