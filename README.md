@@ -6,8 +6,6 @@ https://rrcca.sharepoint.com/:w:/s/Dept-VideoGameDevelopment-21404/EaEmDiqnJNZKo
 
 TODO:
 
- - The Git Life Cycle. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
-
  - Git Fundamentals. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
 
     Configuring Git 
@@ -60,13 +58,13 @@ TODO:
 Doing: 
 
 
-
-
 Done:
 
-- The role of version control in software development. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: Sept 26, 2026] [Completed Date: Sept 26, 2026]
+ - The role of version control in software development. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: Sept 26, 2026] [Completed Date: Sept 26, 2026]
 
-- What is Git (including pros and cons). **(George)** [Complete by Oct 2, 2026] [Start Date: September 25, 2026] [Completed Date: September 25, 2026]
+ - The Git Life Cycle. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: Sept 26, 2026] [Completed Date: Sept 30, 2026]
+
+ - What is Git (including pros and cons). **(George)** [Complete by Oct 2, 2026] [Start Date: September 25, 2026] [Completed Date: September 25, 2026]
 
 
 
