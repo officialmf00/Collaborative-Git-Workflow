@@ -6,8 +6,6 @@ https://rrcca.sharepoint.com/:w:/s/Dept-VideoGameDevelopment-21404/EaEmDiqnJNZKo
 
 TODO:
 
-  - Creating, Using, and Merging Branches **(Me)** [Complete by Oct 9, 2026] [Start Date: ???] [Completed Date: ???]
-
   - Resolving Merge Conflict **(Me)** [Complete by Oct 9, 2026] [Start Date: ???] [Completed Date: ???]
 
   - Stashing **(Claire)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
@@ -48,6 +46,8 @@ Done:
      Clean 
  
      When to use the different strategies. 
+
+- Creating, Using, and Merging Branches **(Me)** [Complete by Oct 9, 2026] [Start Date: Oct 2, 2026] [Completed Date: Oct 2, 2026]
 
 - The Git Life Cycle. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: Sept 26, 2026] [Completed Date: Sept 30, 2026]
 
