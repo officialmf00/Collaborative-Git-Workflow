@@ -1,6 +1,6 @@
 ---
 title: The Git Life Cycle
-nav_order: 4
+nav_order: 2
 ---
 
 ## Table Of Contents
