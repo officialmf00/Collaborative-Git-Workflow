@@ -14,9 +14,6 @@ TODO:
 
     Forking Workflow 
 
-  - Other Interesting/Useful Git Topics **(George)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
-
-
 Doing: 
 
 
@@ -47,6 +44,8 @@ Done:
 - Resolving Merge Conflicts **(Me)** [Complete by Oct 9, 2026] [Start Date: Oct 2, 2026] [Completed Date: Oct 2, 2026]
 
 - Tags **(Claire)** [Complete by Oct 2, 2026] [Start Date: Oct 1, 2026] [Completed Date: Oct 1, 2026]
+
+- Other Interesting/Useful Git Topics **(George)** [Complete by Oct 2, 2026] [Start Date: Oct 2, 2026] [Completed Date: Oct 2, 2026]
 
 - Remote Repositories **(Me)** [Complete by Oct 9, 2026] [Start Date: Oct 2, 2026] [Completed Date: Oct 2, 2026]
 
