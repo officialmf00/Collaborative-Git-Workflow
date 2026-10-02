@@ -6,8 +6,6 @@ https://rrcca.sharepoint.com/:w:/s/Dept-VideoGameDevelopment-21404/EaEmDiqnJNZKo
 
 TODO:
 
- - What is Git (including pros and cons). **(George)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
-
  - Undoing in Git with: **(Claire)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
 
      Checkout 
@@ -66,7 +64,7 @@ Done:
  
     Using a Git Ignore File 
 
-
+ - What is Git (including pros and cons). **(George)** [Complete by Oct 2, 2026] [Start Date: September 25, 2026] [Completed Date: September 25, 2026]
 
 
 

@@ -1,0 +1,37 @@
+A Brief History of Git
+==================
+-The Git version control tool was created by
+Linus Torvalds, the same coder who
+created the Linux OS.
+
+-Git development started when Bitkeeper,
+the version control tool being used for
+Linux development, revoked it's free
+license for Linux development.
+
+-Development on Git started in April 2005,
+and by June it was already being used to
+handle the next Linux kernel release!
+
+##  Why Git?
+
+-With Git, you can make a "commit", or a save point, as often as you'd like.
+You can also go back to previous commits. This takes the pressure off of you while
+you're working.
+
+-Commit often and commit early, and you'll never have that gut sinking feeling of
+overwriting or losing changes.
+
+-Allows us to work offline if necessarily and synchronize with a distributed team.
+
+## Why Not Git?
+
+#### Downsides to working with git in game development: 
+
+-Not especially user friendly for non-developers.
+
+-No built-in support for large repos, although the Git LFS add-on exists.
+
+-No built-in support for locking binary assets. (Locking can be enabled with Git
+LFS.)
+
