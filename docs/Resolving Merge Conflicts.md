@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Resolving Merge Conflicts
 nav_order: 5
 ---
