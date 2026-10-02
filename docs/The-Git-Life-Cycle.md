@@ -4,31 +4,33 @@ title: The Git Life Cycle
 nav_order: 2
 ---
 
-## Table Of Contents
+<!-- prettier-ignore-start -->
+# The Git Life Cycle
+{: .no_toc }
 
-**Untracked Files**
+A short introductory paragraph for the module to come before the table of contents.
 
-**Unmodified Files**
+## Table of Contents
+{: .no_toc }
 
-**Modified Files**
+1. TOC
+{:toc}
 
-**Staged Files**
+<!-- prettier-ignore-end -->
 
-**The Life Cycle Order
-
-# Untracked Files:
+## Untracked Files:
 - Files that are created, but git doesn't know about them yet
 - The first stage of every file
 
-# Unmodified Files:
+## Unmodified Files:
 - Files that have been pushed to git, but have no edits made to them based on the last push
 
-# Modified Files:
+## Modified Files:
 - Files that have edits made to them since the last push
 
-# Staged Files:
+## Staged Files:
 - Files that have been staged to be committed to git, but haven't been pushed yet
 
-# The Life Cycle Order
+## The Life Cycle Order
 The life cycle goes like this:
-*Untracked -> Staged -> Unmodified -> Modified -> Staged*
+**Untracked -> Staged -> Unmodified -> Modified -> Staged**
