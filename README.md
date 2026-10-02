@@ -6,18 +6,6 @@ https://rrcca.sharepoint.com/:w:/s/Dept-VideoGameDevelopment-21404/EaEmDiqnJNZKo
 
 TODO:
 
- - Undoing in Git with: **(Claire)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
-
-     Checkout 
- 
-     Reset 
- 
-     Revert 
- 
-     Clean 
- 
-     When to use the different strategies. 
-
   - Creating, Using, and Merging Branches **(Me)** [Complete by Oct 9, 2026] [Start Date: ???] [Completed Date: ???]
 
   - Resolving Merge Conflict **(Me)** [Complete by Oct 9, 2026] [Start Date: ???] [Completed Date: ???]
@@ -49,6 +37,17 @@ Doing:
 Done:
 
  - The role of version control in software development. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: Sept 26, 2026] [Completed Date: Sept 26, 2026]
+ - Undoing in Git with: **(Claire)** [Complete by Oct 2, 2026] [Start Date: Oct 1, 2026] [Completed Date: Oct 1, 2026]
+
+     Checkout 
+ 
+     Reset 
+ 
+     Revert 
+ 
+     Clean 
+ 
+     When to use the different strategies. 
 
 - The Git Life Cycle. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: Sept 26, 2026] [Completed Date: Sept 30, 2026]
 
@@ -65,6 +64,18 @@ Done:
     Using a Git Ignore File 
 
  - What is Git (including pros and cons). **(George)** [Complete by Oct 2, 2026] [Start Date: September 25, 2026] [Completed Date: September 25, 2026]
+
+- Undoing in Git with: **(Claire)** [Complete by Oct 2, 2026] [Start Date: Oct 1, 2026] [Completed Date: Oct 1, 2026]
+
+     Checkout 
+ 
+     Reset 
+ 
+     Revert 
+ 
+     Clean 
+ 
+     When to use the different strategies. 
 
 
 
