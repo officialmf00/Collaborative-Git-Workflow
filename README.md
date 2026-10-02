@@ -6,8 +6,6 @@ https://rrcca.sharepoint.com/:w:/s/Dept-VideoGameDevelopment-21404/EaEmDiqnJNZKo
 
 TODO:
 
-  - Resolving Merge Conflict **(Me)** [Complete by Oct 9, 2026] [Start Date: ???] [Completed Date: ???]
-
   - Stashing **(Claire)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
 
   - Tags **(Claire)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
@@ -62,8 +60,10 @@ Done:
     Status, Log, and Diff 
  
     Using a Git Ignore File 
+    
+- What is Git (including pros and cons). **(George)** [Complete by Oct 2, 2026] [Start Date: September 25, 2026] [Completed Date: September 25, 2026]
 
- - What is Git (including pros and cons). **(George)** [Complete by Oct 2, 2026] [Start Date: September 25, 2026] [Completed Date: September 25, 2026]
+- Resolving Merge Conflicts **(Me)** [Complete by Oct 9, 2026] [Start Date: Oct 2, 2026] [Completed Date: Oct 2, 2026]
 
 - Undoing in Git with: **(Claire)** [Complete by Oct 2, 2026] [Start Date: Oct 1, 2026] [Completed Date: Oct 1, 2026]
 
