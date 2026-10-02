@@ -1,5 +1,7 @@
 \---
 
+layout: default
+
 title: The Role Of Version Control in Software Development
 
 nav\_order: 3
