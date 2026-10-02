@@ -1,22 +1,33 @@
-Each list item should have: 
+https://rrcca.sharepoint.com/:w:/s/Dept-VideoGameDevelopment-21404/EaEmDiqnJNZKoJZrxchxvPYBl89WSLTdsbpw10ZONPsYaQ
 
-- A team member assigned to it.  
+# Branch Creation: Following the Feature Branch Workflow, each team member should create a new branch from the main branch for each topic they document (eg: Each topic to make a new branch for is a -)
 
-- A due date assigned to it. (Don’t change this once it’s been assigned.) 
-
-- A start-work date assigned to. (Added when the item is moved from “To Do” to “Doing”.) 
-
-- A completed date assigned to. (Added when the item is moved from “Doing” to “Done.” 
+# Refer back to steps 8-17 in the link above when needed.
 
 TODO:
 
- - The role of version control in software development. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
+  - The How and Why of Team Git Workflow **(George)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
 
- - What is Git (including pros and cons). **(Ryan)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
+    Centralized Workflow 
 
- - The Git Life Cycle. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
+    Feature Branch Workflow 
 
- - Git Fundamentals. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
+    Forking Workflow 
+
+Doing: 
+
+
+Done:
+
+- The role of version control in software development. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: Sept 26, 2026] [Completed Date: Sept 26, 2026]
+ 
+- Stashing **(Claire)** [Complete by Oct 2, 2026] [Start Date: Oct 1, 2026] [Completed Date: Oct 1, 2026]
+
+- Creating, Using, and Merging Branches **(Me)** [Complete by Oct 9, 2026] [Start Date: Oct 2, 2026] [Completed Date: Oct 2, 2026]
+
+- The Git Life Cycle. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: Sept 26, 2026] [Completed Date: Sept 30, 2026]
+
+- Git Fundamentals. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: Sept 30, 2026] [Completed Date: Sept 30, 2026]
 
     Configuring Git 
  
@@ -27,8 +38,22 @@ TODO:
     Status, Log, and Diff 
  
     Using a Git Ignore File 
+    
+- What is Git (including pros and cons). **(George)** [Complete by Oct 2, 2026] [Start Date: September 25, 2026] [Completed Date: September 25, 2026]
 
- - Undoing in Git with: **(Claire)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
+- Resolving Merge Conflicts **(Me)** [Complete by Oct 9, 2026] [Start Date: Oct 2, 2026] [Completed Date: Oct 2, 2026]
+
+- Tags **(Claire)** [Complete by Oct 2, 2026] [Start Date: Oct 1, 2026] [Completed Date: Oct 1, 2026]
+
+- Other Interesting/Useful Git Topics **(George)** [Complete by Oct 2, 2026] [Start Date: Oct 2, 2026] [Completed Date: Oct 2, 2026]
+
+- Remote Repositories **(Me)** [Complete by Oct 9, 2026] [Start Date: Oct 2, 2026] [Completed Date: Oct 2, 2026]
+
+   Adding / Configuring a GitHub Remote 
+
+   Pushing and Pulling 
+
+- Undoing in Git with: **(Claire)** [Complete by Oct 2, 2026] [Start Date: Oct 1, 2026] [Completed Date: Oct 1, 2026]
 
      Checkout 
  
@@ -39,40 +64,6 @@ TODO:
      Clean 
  
      When to use the different strategies. 
-
-  - Resolving Merge Conflict **(Me)** [Complete by Oct 9, 2026] [Start Date: Oct 2, 2026] [Completed Date: Oct 2, 2026]
-
-  - Stashing **(Claire)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
-
-  - Tags **(Claire)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
-
-  - Remote Repositories **(Me)** [Complete by Oct 9, 2026] [Start Date: Oct 2, 2026] [Completed Date: Oct 2, 2026]
-
-    Adding / Configuring a GitHub Remote 
-
-    Pushing and Pulling 
-
-  - The How and Why of Team Git Workflow **(George)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
-
-    Centralized Workflow 
-
-    Feature Branch Workflow 
-
-    Forking Workflow 
-
-  - Other Interesting/Useful Git Topics **(George)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
-
-
-Doing: 
-
-
-
-
-Done:
-
-  - Creating, Using, and Merging Branches **(Me)** [Complete by Oct 9, 2026] [Start Date: Oct 2, 2026] [Completed Date: Oct 2, 2026]
-
-
 
 
 
