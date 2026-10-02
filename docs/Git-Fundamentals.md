@@ -1,14 +1,22 @@
-\---
-
+---
 title: Git Fundamentals
-
 nav\_order: 5
+---
 
-\---
+## Table Of Contents
+
+**Configuring Git**
+
+**Initializing a Repo**
+
+**Staging and Commit Files**
+
+**Status, Log, and Diff**
+
+**Using a Git Ignore File**
 
 
-
-\#Configuring Git
+# Configuring Git
 
 
 
@@ -34,7 +42,7 @@ You only need to set these once and then you're good to go!
 
 
 
-\#Initializing a Repository
+# Initializing a Repository
 
 
 
@@ -90,7 +98,7 @@ Wilcards and sub-folders work too:
 
 
 
-git add docs/textfiles/\*.txt
+git add docs/textfiles/*.txt
 
 
 
@@ -252,7 +260,7 @@ Wildcards: Ignore all .exe files.
 
 
 
-\*.exe
+*.exe
 
 
 
@@ -276,5 +284,5 @@ Ignore all .pdf files in the doc/ folder and any of its sub-folders.
 
 
 
-doc/\*\*/\*.pdf
+doc/**/*.pdf
 
