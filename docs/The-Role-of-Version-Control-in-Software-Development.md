@@ -1,12 +1,12 @@
-\---
+---
 layout: default
 title: The Role Of Version Control in Software Development
-nav\_order: 3
-\---
+nav_order: 3
+---
 
 
 
-\#What is Version Control?
+#What is Version Control?
 
 
 
@@ -28,7 +28,7 @@ Some documents have more advanced version control built-in:
 
 
 
-\*Version control allows for more than just undoing things:\*
+*Version control allows for more than just undoing things:\*
 
 
 
@@ -38,7 +38,7 @@ Some documents have more advanced version control built-in:
 
 
 
-\##Why Should I Care About Version Control?
+##Why Should I Care About Version Control?
 
 
 
@@ -48,5 +48,5 @@ software development.
 
 
 
-\*It's your development safety net!\*
+*It's your development safety net!\*
 
