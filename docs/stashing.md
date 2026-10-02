@@ -1,3 +1,7 @@
+---
+title: Stashing
+nav_order: 7
+---
 <!-- prettier-ignore-start -->
 # Stashing
 {: .no_toc }
