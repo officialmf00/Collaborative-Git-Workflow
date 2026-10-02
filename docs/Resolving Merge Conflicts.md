@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resolving Merge Conflicts
-nav_order: 5
+nav_order: 6
 ---
 
 ## Resolving Merge Conflicts
