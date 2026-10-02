@@ -66,7 +66,7 @@ git branch -m main
 
 
 
-\#Staging and Committing Files
+# Staging and Committing Files
 
 
 
@@ -175,7 +175,7 @@ See Conventional Commits for a lightweight commit message convention.
 
 
 
-\#Git Status, Log and Diff
+# Git Status, Log and Diff
 
 
 
@@ -232,7 +232,7 @@ This shows you all of your modified files
 
 
 
-\#The Git Ignore File
+# The Git Ignore File
 
 
 
