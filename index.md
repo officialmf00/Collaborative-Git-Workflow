@@ -4,20 +4,22 @@ layout: home
 nav_order: 1
 ---
 
-## Table Of Contents
+<!-- prettier-ignore-start -->
+# Main Title for Module 
+{: .no_toc }
 
-**What is Version Control?**'
+A short introductory paragraph for the module to come before the table of contents.
 
-**Why Should I Care About Version Control**
+## Table of Contents
+{: .no_toc }
 
-**A Brief History of Git**
+1. TOC
+{:toc}
 
-**Why Git?**
-
-**Why Not Git?**
+<!-- prettier-ignore-end -->
 
 
-# What is Version Control?
+## What is Version Control?
 
 Version control, also known as revision control or source control, is the
 
@@ -47,7 +49,7 @@ Some documents have more advanced version control built-in:
 
 
 
-# Why Should I Care About Version Control?
+## Why Should I Care About Version Control?
 
 
 
@@ -60,7 +62,7 @@ software development.
 **It's your development safety net!**
 
 
-# A Brief History of Git
+## A Brief History of Git
 ==================
 -The Git version control tool was created by
 Linus Torvalds, the same coder who
@@ -75,7 +77,7 @@ license for Linux development.
 and by June it was already being used to
 handle the next Linux kernel release!
 
-#  Why Git?
+##  Why Git?
 
 -With Git, you can make a "commit", or a save point, as often as you'd like.
 You can also go back to previous commits. This takes the pressure off of you while
@@ -86,7 +88,7 @@ overwriting or losing changes.
 
 -Allows us to work offline if necessarily and synchronize with a distributed team.
 
-# Why Not Git?
+## Why Not Git?
 
 #### Downsides to working with git in game development: 
 
