@@ -113,6 +113,10 @@ LFS.)
 #### Claire
 Hello! I'm Claire Valmonte-Johnston, and I am aspiring to become a video game developer! Game development has been an interest of mine since I was in the seventh grade, starting with a website called "code.org". I've been creating games in Unity for the past three years. Currently, I’m in my first year at RRC’s game development course. I'm looking forward to learning!
 
-## Ryan Brandt
+#### Ryan Brandt
 
 My name is Ryan Brandt, I am 18 years old and I am a programmer. I fell in love with programming through video games, and the ability to make games that other people would be able to enjoy. In my spare time I am a competitive gymnastics athlete, a gymnastics coach, a youth leader and play D&D every week. I have been doing gymnastics since I was 3 years old, and have been competitive since 2015. Now that I have started coaching I'm excited to share one of my passions with the next generation. Youth group has been a big part of my life, and my walk with God, and now that I have graduated I'm glad to have started youth leading in my home church leading the youth in my church in their faiths. Lastly, I have been playing D&D for many years and I'm currently a dungeon master for a nearly 2 year campaign with a group of guys that have been meeting weekly since grade 10.
+
+#### officialmf00
+
+I am the owner of this repository being used for the collaborative git workflow assignment. There is nothing else I will put here. Thank you for your time.
