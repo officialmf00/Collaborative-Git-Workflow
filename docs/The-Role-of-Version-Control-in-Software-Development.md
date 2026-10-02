@@ -4,11 +4,14 @@ title: The Role Of Version Control in Software Development
 nav_order: 3
 ---
 
+## Table Of Contents
+
+**What is Version Control?**'
+
+**Why Should I Care About Version Control**
 
 
 # What is Version Control?
-
-
 
 Version control, also known as revision control or source control, is the
 
@@ -38,7 +41,7 @@ Some documents have more advanced version control built-in:
 
 
 
-##Why Should I Care About Version Control?
+# Why Should I Care About Version Control?
 
 
 
