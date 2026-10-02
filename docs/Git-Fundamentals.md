@@ -1,6 +1,6 @@
 ---
 title: Git Fundamentals
-nav\_order: 5
+nav_order: 5
 ---
 
 ## Table Of Contents
