@@ -107,3 +107,9 @@ LFS.)
 [README]: [https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md](https://github.com/StungEye-RRC/Just-The-Docs-Template#readme)
 [Jekyll]: https://jekyllrb.com
 [Markdown Syntax]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+
+## Biographies
+
+#### Claire
+Hello! I'm Claire Valmonte-Johnston, and I am aspiring to become a video game developer! Game development has been an interest of mine since I was in the seventh grade, starting with a website called "code.org". I've been creating games in Unity for the past three years. Currently, I’m in my first year at RRC’s game development course. I'm looking forward to learning!
