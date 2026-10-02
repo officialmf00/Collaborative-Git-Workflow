@@ -4,11 +4,101 @@ layout: home
 nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+<!-- prettier-ignore-start -->
+# Main Title for Module 
+{: .no_toc }
 
-Start by following the instructions in the [README] and then [browse the Just the Docs documentation][Just the Docs] to learn more about how to use this theme.
+A short introductory paragraph for the module to come before the table of contents.
 
-Remember that you will be using [Markdown Syntax] rather than raw HTML to format the content of your pages.
+## Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
+
+
+## What is Version Control?
+
+Version control, also known as revision control or source control, is the
+
+management of changes to documents like computer programs.
+
+
+
+CTRL-Z is the simplest form of version control.
+
+
+
+Some documents have more advanced version control built-in:
+
+* Microsoft Word has a "Track Changes" feature.
+* Google Docs automatically tracks file changes over.
+* You can see the edit history of all Wikipedia articles.
+
+
+
+**Version control allows for more than just undoing things:**
+
+
+
+* Work on new projects features while at the same time patching bugs found in older version of the code.
+* Collaborate with someone on a projects without overwriting each other's work.
+* Work with distributed teams of coders from around the world to develop open-source applications.
+
+
+
+## Why Should I Care About Version Control?
+
+
+
+Solo or team, version control is your secret weapon for efficient and stress-free
+
+software development.
+
+
+
+**It's your development safety net!**
+
+
+## A Brief History of Git
+==================
+-The Git version control tool was created by
+Linus Torvalds, the same coder who
+created the Linux OS.
+
+-Git development started when Bitkeeper,
+the version control tool being used for
+Linux development, revoked it's free
+license for Linux development.
+
+-Development on Git started in April 2005,
+and by June it was already being used to
+handle the next Linux kernel release!
+
+##  Why Git?
+
+-With Git, you can make a "commit", or a save point, as often as you'd like.
+You can also go back to previous commits. This takes the pressure off of you while
+you're working.
+
+-Commit often and commit early, and you'll never have that gut sinking feeling of
+overwriting or losing changes.
+
+-Allows us to work offline if necessarily and synchronize with a distributed team.
+
+## Why Not Git?
+
+#### Downsides to working with git in game development: 
+
+-Not especially user friendly for non-developers.
+
+-No built-in support for large repos, although the Git LFS add-on exists.
+
+-No built-in support for locking binary assets. (Locking can be enabled with Git
+LFS.)
+
 
 ----
 

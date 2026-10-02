@@ -6,38 +6,6 @@ https://rrcca.sharepoint.com/:w:/s/Dept-VideoGameDevelopment-21404/EaEmDiqnJNZKo
 
 TODO:
 
- - What is Git (including pros and cons). **(George)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
-
- - The Git Life Cycle. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
-
- - Git Fundamentals. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
-
-    Configuring Git 
- 
-    Initializing a Repo 
- 
-    Staging and Commit Files 
- 
-    Status, Log, and Diff 
- 
-    Using a Git Ignore File 
-
- - Undoing in Git with: **(Claire)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
-
-     Checkout 
- 
-     Reset 
- 
-     Revert 
- 
-     Clean 
- 
-     When to use the different strategies. 
-
-  - Creating, Using, and Merging Branches **(Me)** [Complete by Oct 9, 2026] [Start Date: ???] [Completed Date: ???]
-
-  - Resolving Merge Conflict **(Me)** [Complete by Oct 9, 2026] [Start Date: ???] [Completed Date: ???]
-
   - Tags **(Claire)** [Complete by Oct 2, 2026] [Start Date: ???] [Completed Date: ???]
 
   - Remote Repositories **(Me)** [Complete by Oct 9, 2026] [Start Date: ???] [Completed Date: ???]
@@ -60,14 +28,43 @@ TODO:
 Doing: 
 
 
-
-
 Done:
 
- - The role of version control in software development. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: Sept 26, 2026] [Completed Date: Sept 26, 2026]
- - Stashing **(Claire)** [Complete by Oct 2, 2026] [Start Date: Oct 1, 2026] [Completed Date: Oct 1, 2026]
+- The role of version control in software development. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: Sept 26, 2026] [Completed Date: Sept 26, 2026]
+ 
+- Stashing **(Claire)** [Complete by Oct 2, 2026] [Start Date: Oct 1, 2026] [Completed Date: Oct 1, 2026]
 
+- Creating, Using, and Merging Branches **(Me)** [Complete by Oct 9, 2026] [Start Date: Oct 2, 2026] [Completed Date: Oct 2, 2026]
 
+- The Git Life Cycle. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: Sept 26, 2026] [Completed Date: Sept 30, 2026]
+
+- Git Fundamentals. **(Ryan)** [Complete by Oct 2, 2026] [Start Date: Sept 30, 2026] [Completed Date: Sept 30, 2026]
+
+    Configuring Git 
+ 
+    Initializing a Repo 
+ 
+    Staging and Commit Files 
+ 
+    Status, Log, and Diff 
+ 
+    Using a Git Ignore File 
+    
+- What is Git (including pros and cons). **(George)** [Complete by Oct 2, 2026] [Start Date: September 25, 2026] [Completed Date: September 25, 2026]
+
+- Resolving Merge Conflicts **(Me)** [Complete by Oct 9, 2026] [Start Date: Oct 2, 2026] [Completed Date: Oct 2, 2026]
+
+- Undoing in Git with: **(Claire)** [Complete by Oct 2, 2026] [Start Date: Oct 1, 2026] [Completed Date: Oct 1, 2026]
+
+     Checkout 
+ 
+     Reset 
+ 
+     Revert 
+ 
+     Clean 
+ 
+     When to use the different strategies. 
 
 
 
