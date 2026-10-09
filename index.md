@@ -112,4 +112,4 @@ My name is Ryan Brandt, I am 18 years old and I am a programmer. I fell in love 
 
 #### officialmf00
 
-I am the owner of this repository being used for the collaborative git workflow assignment. There is nothing else I will put here. Thank you for your time.
+I am the owner of this repository being used for the collaborative git workflow assignment. I've been programming in a variety of languages for over 7 years, such as luau, C#, python, and most recently, JavaScript. I've enjoyed programming for a long time, and I hope to only improve as the years go on. That is all. Thank you for your time.
