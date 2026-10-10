@@ -112,12 +112,10 @@ My name is Ryan Brandt, I am 18 years old and I am a programmer. I fell in love 
 
 #### officialmf00
 
-<<<<<<< HEAD
-I am the owner of this repository being used for the collaborative git workflow assignment. There is nothing else I will put here. Thank you for your time.
+I am the owner of this repository being used for the collaborative git workflow assignment. I've been programming in a variety of languages for over 7 years, such as luau, C#, python, and most recently, JavaScript. I've enjoyed programming for a long time, and I hope to only improve as the years go on. That is all.
 
 #### CloudyDergon
 
 Howdy! There are some who call me George Hnatiuk, I am 19 turning 20 soon, and I am an incredibly incompetent programmer. I haven't exactly wanted to program most of my life, but I came about it once I began immersing myself in a variety of indie games. I have always been inspired by games, but it was only as of recently that I understood what games really are, art. I've tried drawing, and editing photos, and even created my own pixel art, but nothing has ever hit home more than video games for me. I believe that video games are one of the best (if not the best) ways of storytelling, as I believe you can derive much more subtle details and information from the mental gymnastics involved in playing a lot of video games. Some of my favourite games include turn-based RPG's such as Omori, Inscryption, or Deltarune. I've always loved the idea of solving puzzles by managing a group of party members, as well as the interactivity of animations and drawn art that really make you feel like your actions are creating an impact. I aspire to create similar games, and I hope to find a similar group of people that also want to make similar games with me.
 
 I am the owner of this repository being used for the collaborative git workflow assignment. I've been programming in a variety of languages for over 7 years, such as luau, C#, python, and most recently, JavaScript. I've enjoyed programming for a long time, and I hope to only improve as the years go on. That is all. Thank you for your time.
->>>>>>> 40d1e3a4e166bf8eee5545183442997e2166a79a
